@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/jpillora/cloud-torrent/server"
+	"github.com/hbnt/cgta/server"
 	"github.com/jpillora/opts"
 )
 
