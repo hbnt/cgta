@@ -1,0 +1,11 @@
+{
+	"name": "cgta",
+	"website": "https://github.com/hbnt/cgta",
+	"repository": "https://github.com/hbnt/cgta",
+	"env": {
+  "AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
+}
