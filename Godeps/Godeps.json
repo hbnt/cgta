@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/hbnt/cgta",
-	"GoVersion": "go1.9.1",
+	"GoVersion": "go1.9.2",
 	"GodepVersion": "v204",
 	"Deps": [
 		{
